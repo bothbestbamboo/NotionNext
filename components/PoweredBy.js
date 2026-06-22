@@ -8,11 +8,9 @@ export default function PoweredBy(props) {
   return (
     <div className={`inline text-sm font-serif ${props.className || ''}`}>
       <span className='mr-1'>Powered by</span>
-      <a
-        href='https://www.bambooflooringchina.com'
-        className='underline justify-start'>
-        bothbest bamboo
-      </a>
+     <a href='https://www.bambooflooringchina.com' className='underline justify-start'>
+  bothbest bamboo
+</a>
       .
     </div>
   )
