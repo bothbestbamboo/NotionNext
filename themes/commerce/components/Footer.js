@@ -109,8 +109,8 @@ const Footer = props => {
                           <a
                             target='_blank'
                             rel='noreferrer'
-                            href={siteConfig('CONTACT_WHATSAPP', '#', CONFIG)}
-                            title={'telegram'}>
+                            href={siteConfig('CONTACT_WHATSAPP', '008615005820528', CONFIG)}
+                            title={'whatsapp'}>
                             <i className='transform hover:scale-125 duration-150 fa-brands fa-whatsapp dark:hover:text-red-400 hover:text-red-600' />
                           </a>
                         }
@@ -125,7 +125,7 @@ const Footer = props => {
                           <a
                             target='_blank'
                             rel='noreferrer'
-                            href={siteConfig('CONTACT_TELEGRAM', '#', CONFIG)}
+                            href={siteConfig('CONTACT_TELEGRAM', '008615005820528', CONFIG)}
                             title={'telegram'}>
                             <i className='transform hover:scale-125 duration-150 fab fa-telegram dark:hover:text-red-400 hover:text-red-600' />
                           </a>
@@ -204,9 +204,9 @@ const Footer = props => {
             <div className='text-xs text-light-500 dark:text-gray-700'>
               Powered by{' '}
               <a
-                href='https://github.com/tangly1024/NotionNext'
+                href='https://www.bambooflooringchina.com'
                 className='dark:text-gray-300'>
-                NotionNext {siteConfig('VERSION')}
+                Bothbest Bamboo {siteConfig('VERSION')}
               </a>
               .
             </div>
