@@ -38,14 +38,7 @@ function SiteInfo({ title }) {
           <span className='px-1 busuanzi_value_site_uv'> </span>
         </span>
         <br />
-        <span className='text-xs font-serif'>
-          Powered by
-          <a
-            href='https://www.bambooflooringchina.com'
-            className='underline'>
-            bamboo flooring
-          </a>
-        </span>
+        
         <br />
       </span>
       <h1>{title}</h1>
