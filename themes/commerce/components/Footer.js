@@ -206,7 +206,7 @@ const Footer = props => {
               <a
                 href='https://www.bambooflooringchina.com'
                 className='dark:text-gray-300'>
-                Bothbest Bamboo {siteConfig('VERSION')}
+                Bothbest Bamboo 
               </a>
               .
             </div>
